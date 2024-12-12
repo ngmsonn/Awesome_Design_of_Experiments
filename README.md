@@ -12,3 +12,4 @@
 * [Optimization of microwave-assisted extraction of total polyphenolic compounds from chokeberries by response surface methodology and artificial neural network](https://www.sciencedirect.com/science/article/abs/pii/S1383586616300193)
 * [Application of Neural Network in Optimization of Chemical Process](https://arxiv.org/abs/2110.04942)
 * [Artificial Neural Networks Based Optimization Techniques: A Review](https://www.mdpi.com/2079-9292/10/21/2689)
+* [Response Methodology Optimization and Artificial Neural Network Modeling for the Removal of Sulfamethoxazole Using an Ozone–Electrocoagulation Hybrid Process](https://www.mdpi.com/1420-3049/28/13/5119)
