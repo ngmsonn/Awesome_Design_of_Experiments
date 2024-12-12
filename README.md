@@ -10,3 +10,4 @@
 ## Papers
 * [Response surface methodology and artificial neural network modeling as predictive tools for phenolic compounds recovery from olive pomace](https://www.sciencedirect.com/science/article/pii/S1383586623022591)
 * [Optimization of microwave-assisted extraction of total polyphenolic compounds from chokeberries by response surface methodology and artificial neural network](https://www.sciencedirect.com/science/article/abs/pii/S1383586616300193)
+* [Application of Neural Network in Optimization of Chemical Process](https://arxiv.org/abs/2110.04942)
